@@ -315,7 +315,7 @@ body {
     left: 50%;
     transform: translateX(-50%);
     bottom: 18px;
-    width: min(420px, calc(100% - 32px));
+    width: min(720px, calc(100% - 32px));
     background: #fff;
     border-radius: 28px;
     padding: 10px 12px;
