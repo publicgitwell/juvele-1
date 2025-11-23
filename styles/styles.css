@@ -246,7 +246,6 @@ body {
     filter: blur(0.34px);
     /* ajuste a intensidade do blur aqui */
     transform: scale(1.04);
-    /* escala suave para evitar bordas transparentes após o blur */
     z-index: 0;
     pointer-events: none;
 }
